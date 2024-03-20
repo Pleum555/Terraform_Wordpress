@@ -1,9 +1,9 @@
 ﻿# Terraform_Wordpress
 
-#How to apply
+// How to apply
 terraform init
 terraform plan
 terraform apply
 
-# How to destroy
+// How to destroy
 terraform destroy
